@@ -1,0 +1,10 @@
+*.safetensors
+*.bin
+*.pt
+*.pth
+wandb/
+dpo/
+outputs/
+.cache/
+__pycache__/
+*.pyc

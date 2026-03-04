@@ -1,0 +1,17 @@
+[
+  {"user_id": 1, "user_input": "What is AI?", "completion_a": "AI is artificial intelligence.", "completion_b": "AI stands for artificial intelligence."},
+  {"user_id": 1, "user_input": "Explain ML.", "completion_a": "ML is machine learning.", "completion_b": "Machine learning is a subset of AI."},
+  {"user_id": 2, "user_input": "What is AI?", "completion_a": "Artificial intelligence.", "completion_b": "AI means artificial intelligence."},
+  {"user_id": 2, "user_input": "Explain ML.", "completion_a": "Machine learning.", "completion_b": "ML is machine learning."},
+  {"user_id": 1, "user_input": "Hello", "completion_a": "Hi there!", "completion_b": "Hello!"},
+  {"user_id": 2, "user_input": "Hello", "completion_a": "Hey!", "completion_b": "Hi!"},
+  {"user_id": 1, "user_input": "Bye", "completion_a": "Goodbye!", "completion_b": "See you!"},
+  {"user_id": 2, "user_input": "Bye", "completion_a": "Bye bye!", "completion_b": "Goodbye!"},
+  {"user_id": 1, "user_input": "Test", "completion_a": "Response A.", "completion_b": "Response B."},
+  {"user_id": 2, "user_input": "Test", "completion_a": "Answer A.", "completion_b": "Answer B."},
+  {"user_id": 1, "user_input": "Q1", "completion_a": "A1.", "completion_b": "B1."},
+  {"user_id": 2, "user_input": "Q2", "completion_a": "A2.", "completion_b": "B2."},
+  {"user_id": 1, "user_input": "Q3", "completion_a": "A3.", "completion_b": "B3."},
+  {"user_id": 2, "user_input": "Q4", "completion_a": "A4.", "completion_b": "B4."},
+  {"user_id": 1, "user_input": "Q5", "completion_a": "A5.", "completion_b": "B5."}
+]
